@@ -1,0 +1,118 @@
+If Java had true garbage collection, most programs would delete themselves upon execution.
+    -- Robert Sewell
+%
+The early bird might get the worm, but what happens to the early worm?
+    -- Andrew Hunt, The Pragmatic Programmer
+%
+PERFORMANCE
+Your Inline::Perl program will run slowly the first few times that
+you run it. After that you will get used to it.
+    -- John McNamara
+%
+I'm an apatheist. The question is no longer interesting, and the answer no longer matters.
+    -- petro
+%
+The difference between theory and practice tends to be very small in theory, but in practice it is very large indeed.
+%
+Actually it was supposed to be a work in progress, but then work got in the way of progress, so there's been no progress and it doesn't work.
+    -- Damian Conway
+%
+To err is human. To blame someone else for your mistakes is even more human.
+%
+Capitalism: Man exploits his fellow man.
+Communism: The other way around.
+%
+patent, noun - The notion that you can protect from the future what you stole from the past.
+%
+An open mind is a very bad thing - everything falls out.
+    -- Lewis Wolpert
+%
+If everything you try works, you're not trying hard enough.
+    -- Gordon Moore
+%
+When everything is coming your way, you're in the wrong lane.
+    -– Tom Snyder
+%
+You probably wouldn't worry about what people think of you if you could know how seldom they do.
+    -- Olin Miller
+%
+Democracy is a process by which the people are free to choose the man who will get the blame.
+    -- Laurence J. Peter
+%
+If the code and the comments disagree, then both are probably wrong.
+    -- Norm Schryer
+%
+Committee, n.: A group of men who individually can do nothing, but as a group decide that nothing can be done.
+    -- Fred Allen
+%
+standards, n.: The principles we use to reject other people's code.
+%
+Human beings, who are almost unique [among animals] in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+    -- Douglas Adams
+%
+A month in the laboratory can often save an hour in the library.
+    -- F.H. Westheimer
+%
+Experience is what causes a person to make new mistakes instead of old ones.
+%
+One of the lessons of history is that nothing is often a good thing to do and always a clever thing to say.
+    -- Will Durant
+%
+XML is like violence – if it doesn’t solve your problems, you are not using enough of it.
+%
+Any fool can try to defend his or her mistakes - and most fools do.
+    -- Dale Carnegie
+%
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+    -- Donald Knuth
+%
+Reality is that which, when you stop believing in it, doesn't go away.
+    -- Philip K. Dick
+%
+The wonderful thing about standards is that there are so many of them to choose from.
+    -- Grace Murray Hopper
+%
+We've all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare. Now, thanks to the Internet, we know this is not true.
+    -- Robert Wilensky
+%
+UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity.
+    -- Dennis M. Ritchie
+%
+First get the facts, you can distort them later.
+    -- Mark Twain
+%
+Out of all the things I have lost, I miss my mind the most.
+    -- Mark Twain
+%
+Good judgement is the result of experience and experience the result of bad judgement.
+    -- Mark Twain
+%
+The universe is a big place, perhaps the biggest.
+    -- Kurt Vonnegut
+%
+You probably wouldn’t worry about what people think of you if you could know how seldom they do.
+    -- Olin Miller
+%
+As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.
+    -- Albert Einstein
+%
+Whenever people agree with me I always feel I must be wrong.
+    -- Oscar Wilde
+%
+Never try to teach a pig to sing; it wastes your time and it annoys the pig.
+    -- Robert Heinlein
+%
+Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.
+    -- Douglas Adams
+%
+Computers are useless. They can only give you answers.
+    -- Pablo Picasso
+%
+The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
+    -- George Bernard Shaw
+%
+I used to think that the brain was the most wonderful organ in my body. Then I realized who was telling me this.
+    -- Emo Philips
+%
+A committee is a life form with six or more legs and no brain.
+    -- Robert A. Heinlein
